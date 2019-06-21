@@ -26,4 +26,3 @@ CPATH=/usr/local/Cellar/openssl/1.0.2q/include:"${CPATH}"
 PKG_CONFIG_PATH=/usr/local/Cellar/openssl/1.0.2q/lib/pkgconfig:"${PKG_CONFIG_PATH}"
 export LD_LIBRARY_PATH CPATH PKG_CONFIG_PATH
 
-alias cb='pbcopy'
